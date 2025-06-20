@@ -1,3 +1,4 @@
+<img width="337" alt="image" src="https://github.com/user-attachments/assets/caf45ca5-55d5-4848-b183-0b5c74f3bd54" />
 # Coursera-Exercise
 Upload the notebook file 
 Introduction
